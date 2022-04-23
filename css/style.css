@@ -2902,3 +2902,19 @@ a{
     justify-content: center;
     align-items: center;
 }
+
+.design{
+    position: absolute;
+    width: 25%;
+    transform: rotate(27deg);
+    bottom: 35%;
+    left: 25%;
+}
+
+.bobine{
+    position: absolute;
+    width: 15%;
+    transform: rotate(-57deg);
+    bottom: 70%;
+    left: 70%;
+}
