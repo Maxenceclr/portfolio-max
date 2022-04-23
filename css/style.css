@@ -244,7 +244,7 @@ iframe{
 }
 
 .lexal_tm_border.bottom .footer_wrap .social ul li a:hover {
-    color: #4fcdff;
+    color: #ffffff;
 }
 
 .lexal_tm_menu {
@@ -295,7 +295,7 @@ iframe{
 }
 
 .lexal_tm_menu .nav_list ul li a:hover {
-    color: #4fcdff;
+    color: #ffffff;
 }
 
 .lexal_tm_home_hero {
@@ -530,7 +530,7 @@ iframe{
     font-family: saira;
     font-size: 14px;
     font-weight: 600;
-    color: #4fcdff;
+    color: #ffffff;
 }
 
 .lexal_tm_about_wrap .main_info {
@@ -643,7 +643,7 @@ iframe{
     left: 50%;
     width: 0%;
     height: 3px;
-    background-color: #4fcdff;
+    background-color: #ffffff;
     -webkit-transition: all .3s ease;
     -moz-transition: all .3s ease;
     -ms-transition: all .3s ease;
@@ -662,7 +662,7 @@ iframe{
     bottom: 0;
     width: 0%;
     height: 3px;
-    background-color: #4fcdff;
+    background-color: #ffffff;
     -webkit-transition: all .3s ease;
     -moz-transition: all .3s ease;
     -ms-transition: all .3s ease;
@@ -677,7 +677,7 @@ iframe{
 .lexal_tm_services ul li .inner .svg {
     width: 40px;
     height: 40px;
-    color: #4fcdff;
+    color: #ffffff;
 }
 
 .lexal_tm_services ul li .inner h3 {
@@ -754,7 +754,7 @@ iframe{
     bottom: 0;
     left: 0;
     opacity: 0;
-    background-color: #4fcdffae;
+    background-color: #00000030;
     -webkit-transition: all .3s ease;
     -moz-transition: all .3s ease;
     -ms-transition: all .3s ease;
@@ -937,7 +937,7 @@ iframe{
     left: 50%;
     width: 0%;
     height: 3px;
-    background-color: #4fcdff;
+    background-color: #ffffff;
     -webkit-transition: all .3s ease;
     -moz-transition: all .3s ease;
     -ms-transition: all .3s ease;
@@ -956,7 +956,7 @@ iframe{
     bottom: 0;
     width: 0%;
     height: 3px;
-    background-color: #4fcdff;
+    background-color: #ffffff;
     -webkit-transition: all .3s ease;
     -moz-transition: all .3s ease;
     -ms-transition: all .3s ease;
@@ -986,7 +986,7 @@ iframe{
 }
 
 .lexal_tm_news_wrap ul li .inner .descriptions_wrap .date_wrap span a:hover {
-    color: #4fcdff;
+    color: #ffffff;
 }
 
 .lexal_tm_news_wrap ul li .inner .descriptions_wrap .title {
@@ -1004,7 +1004,7 @@ iframe{
 }
 
 .lexal_tm_news_wrap ul li .inner .descriptions_wrap .title a:hover {
-    color: #4fcdff;
+    color: #ffffff;
 }
 
 .lexal_tm_news_wrap ul li .inner .descriptions_wrap .title h3 {
@@ -1092,7 +1092,7 @@ iframe{
 }
 
 .lexal_tm_contact_wrap .leftpart ul li span a:hover {
-    color: #4fcdff;
+    color: #ffffff;
 }
 
 .lexal_tm_contact_wrap .leftpart ul li .svg {
@@ -1332,7 +1332,7 @@ iframe{
     left: 50%;
     width: 0%;
     height: 3px;
-    background-color: #4fcdff;
+    background-color: #ffffff;
     -webkit-transition: all .3s ease;
     -moz-transition: all .3s ease;
     -ms-transition: all .3s ease;
@@ -1351,7 +1351,7 @@ iframe{
     bottom: 0;
     width: 0%;
     height: 3px;
-    background-color: #4fcdff;
+    background-color: #ffffff;
     -webkit-transition: all .3s ease;
     -moz-transition: all .3s ease;
     -ms-transition: all .3s ease;
@@ -1381,7 +1381,7 @@ iframe{
 }
 
 .lexal_tm_news_list_wrap ul li .inner .descriptions_wrap .date_wrap span a:hover {
-    color: #4fcdff;
+    color: #ffffff;
 }
 
 .lexal_tm_news_list_wrap ul li .inner .descriptions_wrap .title {
@@ -1399,7 +1399,7 @@ iframe{
 }
 
 .lexal_tm_news_list_wrap ul li .inner .descriptions_wrap .title a:hover {
-    color: #4fcdff;
+    color: #ffffff;
 }
 
 .lexal_tm_news_list_wrap ul li .inner .descriptions_wrap .title h3 {
@@ -1803,13 +1803,13 @@ iframe{
 }
 
 .lexal_tm_news_single_wrap .news_content .short_details ul li a:hover {
-    color: #4fcdff;
+    color: #ffffff;
 }
 
 .lexal_tm_news_single_wrap .news_content .short_details ul li .svg {
     position: relative;
     top: 2px;
-    color: #4fcdff;
+    color: #ffffff;
 }
 
 .lexal_tm_news_single_wrap .news_content .desriptions_wrap {
@@ -1840,7 +1840,7 @@ iframe{
 .lexal_tm_news_single_wrap .news_content .desriptions_wrap blockquote {
     margin-bottom: 13px;
     padding: 10px 0 10px 20px;
-    border-left: 3px solid #4fcdff;
+    border-left: 3px solid #ffffff;
     font-style: italic;
 }
 
@@ -2031,7 +2031,7 @@ iframe{
 }
 
 .lexal_tm_commentbox_wrap .wp .text a:hover {
-    color: #4fcdff;
+    color: #ffffff;
 }
 
 .lexal_tm_commentbox_wrap .reply_comment_wrap {
@@ -2202,7 +2202,7 @@ iframe{
     position: absolute;
     top: 9px;
     left: 0;
-    color: #4fcdff;
+    color: #ffffff;
 }
 
 .lexal_tm_portfolio_single_wrap .single_descriptions_wrap .rightbox ul li span.second {
@@ -2278,7 +2278,7 @@ iframe{
 }
 
 .lexal_tm_pagination_wrap a:hover {
-    color: #4fcdff;
+    color: #ffffff;
 }
 
 .lexal_tm_intro_wrap {
@@ -2357,7 +2357,7 @@ iframe{
 }
 
 .lexal_tm_intro_wrap ul li .inner:hover h3 {
-    color: #4fcdff;
+    color: #ffffff;
 }
 
 .lexal_tm_border.top .buy a {
@@ -2374,7 +2374,7 @@ iframe{
 }
 
 .lexal_tm_border.top .buy a:hover {
-    color: #4fcdff;
+    color: #ffffff;
 }
 
 @media (max-width:1200px) {
@@ -2814,7 +2814,7 @@ a{
 }
 
 .lexal_tm_menu .nav_list-2 ul li a:hover {
-    color: #4fcdff;
+    color: #ffffff;
 }
 
 .main_image-2{
