@@ -624,6 +624,7 @@ iframe{
 }
 
 .lexal_tm_services ul li .inner {
+    justify-content: center;
     float: left;
     clear: both;
     position: relative;
@@ -2719,21 +2720,21 @@ iframe{
 }
 
 .rangement-logo-after{
-    margin-left: 75%;
+    margin-left: 10%;
     width: 50%;
     justify-content: center;
     align-items: center;
 }
 
 .rangement-logo-premiere{
-    margin-left: 70%;
+    margin-left: 75%;
     width: 50%;
     justify-content: center;
     align-items: center;
 }
 
 .rangement-logo-blender{
-    margin-left: 130%;
+    margin-left: 85%;
     width: 50%;
     justify-content: center;
     align-items: center;
@@ -2887,4 +2888,17 @@ a{
     transition: all .3s ease;
     transform: translateZ(0);
     background-size: 175%;
+}
+
+.arrow{
+    position: absolute;
+    top: 67%;
+    left: 75%;
+    width: 25%;
+    transform: rotate(-35deg);
+}
+
+.competences{
+    justify-content: center;
+    align-items: center;
 }
