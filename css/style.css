@@ -737,14 +737,6 @@ iframe{
 }
 
 .lexal_tm_portfolio_list .list_inner .image_wrap .main_image {
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
     -webkit-transition: all .3s ease;
     -moz-transition: all .3s ease;
     -ms-transition: all .3s ease;
@@ -917,16 +909,7 @@ iframe{
     min-width: 100%;
 }
 
-.lexal_tm_news_wrap ul li .inner .image_wrap .main_image {
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
+
 
 .lexal_tm_news_wrap ul li .inner .image_wrap .full_link {
     z-index: 1;
@@ -1322,16 +1305,6 @@ iframe{
     min-width: 100%;
 }
 
-.lexal_tm_news_list_wrap ul li .inner .image_wrap .main_image {
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
 
 .lexal_tm_news_list_wrap ul li .inner .image_wrap .full_link {
     z-index: 1;
@@ -2357,17 +2330,6 @@ iframe{
 
 .lexal_tm_intro_wrap ul li .inner .image_wrap img {
     min-width: 100%;
-}
-
-.lexal_tm_intro_wrap ul li .inner .image_wrap .main_image {
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
 }
 
 .lexal_intro_full_link {
