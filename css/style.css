@@ -2926,3 +2926,9 @@ a{
 .linkedin{
     color: #fff;
 }
+
+@media (max-width: 768px){
+    .logo-max{
+        max-width: 50%;
+    }
+}
